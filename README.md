@@ -146,4 +146,5 @@ SmartPDF uses a RAG pipeline to provide accurate, context-aware answers from you
 - Session-based data isolation
 
 
-Made with ❤️ by Jatin Chhabra
+Made with ❤️ by Param
+
