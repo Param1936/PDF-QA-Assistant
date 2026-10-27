@@ -1,6 +1,6 @@
 # PDF-QA-Assistant
 
-SmartPDF is an interactive PDF chat application that allows users to upload PDF documents and ask questions about their content. The application uses AI to extract, process, and provide contextually relevant answers from the uploaded documents.
+PDF-QA-Assistant is an interactive PDF chat application that allows users to upload PDF documents and ask questions about their content. The application uses AI to extract, process, and provide contextually relevant answers from the uploaded documents.
 
 
 ## 🌟 Features
