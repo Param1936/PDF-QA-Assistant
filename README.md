@@ -1,8 +1,7 @@
-# SmartPDF
+# PDF-QA-Assistant
 
 SmartPDF is an interactive PDF chat application that allows users to upload PDF documents and ask questions about their content. The application uses AI to extract, process, and provide contextually relevant answers from the uploaded documents.
 
-![SmartPDF Logo](https://insert-your-logo-url-here.com)
 
 ## 🌟 Features
 
@@ -14,7 +13,7 @@ SmartPDF is an interactive PDF chat application that allows users to upload PDF 
 
 ## 🏗️ Architecture
 
-SmartPDF is built with a modern stack using a client-server architecture:
+PDF-QA-Assistant is built with a modern stack using a client-server architecture:
 
 ### Backend (Python)
 
@@ -34,7 +33,7 @@ SmartPDF is built with a modern stack using a client-server architecture:
 
 ## 🧠 How Retrieval-Augmented Generation (RAG) Works in SmartPDF
 
-SmartPDF uses a RAG pipeline to provide accurate, context-aware answers from your uploaded PDFs:
+PDF-QA-Assistant uses a RAG pipeline to provide accurate, context-aware answers from your uploaded PDFs:
 
 1. **Document Ingestion**:  
    Users upload one or more PDF files. The backend extracts text from these PDFs and splits them into manageable chunks.
